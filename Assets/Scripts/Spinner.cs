@@ -113,6 +113,9 @@ public class Spinner : MonoBehaviour
             yield return null;
         }
 
+        AudioSource.PlayClipAtPoint(GameManager.instance.spinFinish, Camera.main.transform.position);
+
+
         OnSpinComplete.Invoke();
     }
 

@@ -13,4 +13,7 @@ MonoBehaviour:
   m_Name: InsideOutside
   m_EditorClassIdentifier: 
   oneThing: Inside a Pen
+  oneActionToInvoke: 
   theOther: Outside a Pen
+  otherActionToInvoke: 
+  id: in

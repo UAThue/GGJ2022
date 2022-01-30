@@ -10,5 +10,5 @@ public class RuleDuality : ScriptableObject
     public string oneActionToInvoke; // Dangerous! Playing with Fire!!!
     [TextArea] public string theOther;
     public string otherActionToInvoke; // Dangerous! Playing with Fire!!!
-
+    public string id;
 }

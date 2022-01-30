@@ -10,7 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 06dec0374289c1f4eaacffd9aa6fed58, type: 3}
-  m_Name: LivingDead
+  m_Name: EastWest
   m_EditorClassIdentifier: 
-  oneThing: Living
-  theOther: Dead
+  oneThing: 'On the
+
+    East Side'
+  oneActionToInvoke: 
+  theOther: 'On the
+
+    West Side'
+  otherActionToInvoke: 
+  id: east

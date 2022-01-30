@@ -13,4 +13,7 @@ MonoBehaviour:
   m_Name: HipsterNormal
   m_EditorClassIdentifier: 
   oneThing: Hipster
+  oneActionToInvoke: 
   theOther: Normal
+  otherActionToInvoke: 
+  id: hip

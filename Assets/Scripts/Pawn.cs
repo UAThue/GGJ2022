@@ -14,4 +14,6 @@ public abstract class Pawn : MonoBehaviour
 
     public abstract void MoveForward(float moveDirection);
     public abstract void Rotate(float rotationDirection);
+    public abstract void StartAction();
+    public abstract void EndAction();
 }

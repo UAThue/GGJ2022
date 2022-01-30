@@ -13,4 +13,7 @@ MonoBehaviour:
   m_Name: BlackWhite
   m_EditorClassIdentifier: 
   oneThing: Black
+  oneActionToInvoke: 
   theOther: White
+  otherActionToInvoke: 
+  id: black
