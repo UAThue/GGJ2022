@@ -1,0 +1,38 @@
+Me and Eew -- A Duality of Sheep --- Maybe not sheep. Round? Square?
+
+
+
+Scoring Rules:
+
+
+Gain 1 point for each (White / Black) sheep in your farm that is in the (North/South) farm.
+Gain 1 point for each (Round / Square) sheep that is (Inside / Outside) of a pen.
+Gain 1 point for each (Awake / Asleep) sheep that is in Lush / Barren) terrain.
+
+
+(Royal / Peasant) 
+(Wet / Dry)
+(Light / Dark)
+
+
+
+( Status in Position ) is goal
+
+
+
+
+Your abilities: 
+A - (SPRINT / SNEAK) -- sprint scares sheep, but moves fast. Sneak doesn't trigger traps, but slow
+B - (BRAG / BOW) 
+
+X - (PUSH / PULL) Gates and Objects
+Y - (CARRY / YEET) Objects
+
+
+
+
+
+
+
+
+
